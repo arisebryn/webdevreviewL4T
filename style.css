@@ -1,0 +1,14 @@
+h1 {
+    color: dodgerblue;
+}
+
+.box {
+    background-color: orchid;
+    padding: 5px;
+}
+
+#canvas {
+    border: 5px solid black;
+}
+  
+  
