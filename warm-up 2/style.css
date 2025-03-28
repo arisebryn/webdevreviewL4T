@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    font-family: Helvetica;
+    background-color: #F2B5D4;
+  }
+  
+  #title {
+    color: #33BDD8
+  }
+  
+  #btn {
+    width: 200px;
+    height: 90px;
+    font-size: 30px;
+    color: #3c3c3b;
+    background-color: #7BDFF2;
+  }
+  
+  .container {
+    background-color: #EFF7F6;
+    border: 10px double #F7D6E0;
+    padding: 25px;
+    width: 500px;
+    margin: auto;
+  }
+  
+  
